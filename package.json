@@ -1,0 +1,14 @@
+{
+  "name": "bank-flatiron",
+  "version": "1.0.0",
+  "description": "flatiron bank Project Description This is a website for managing transactions in the bank of flatiron. The website uses react, json, html, css and javascript. Project Setup Requirements Text editor eg Visual Studio Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
